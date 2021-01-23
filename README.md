@@ -2,7 +2,7 @@
 - [x] Python
 - [x] [YOLOv5](https://github.com/ultralytics/yolov5)
 - [x] Pytorch
-- [x] [Cvat-api](https://github.com/openvinotoolkit/cvat)
+- [x] [cvat-api](https://github.com/openvinotoolkit/cvat)
 - [x] docker
 
 # Installation:
