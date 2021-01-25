@@ -1,8 +1,8 @@
-# license plate list
+# YOLOv5 recursive-training
 - [x] Python
 - [x] [YOLOv5](https://github.com/ultralytics/yolov5)
 - [x] Pytorch
-- [x] [cvat-api](https://github.com/openvinotoolkit/cvat)
+- [x] [cvat-cli](https://github.com/openvinotoolkit/cvat/tree/develop/utils/cli)
 - [x] docker
 
 # Installation:
